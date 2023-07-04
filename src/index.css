@@ -1,0 +1,82 @@
+
+body{
+  font-family: 'Bacasime Antique', serif;
+font-family: 'Roboto Slab', serif;
+  
+}
+
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.63)), url(image/herobg-ecbfddc8.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+*{
+
+    color: rgba(255, 255, 255, 0.849);
+}
+.fssss{
+font-size: 13px;
+}
+
+section{
+    background-color: black;
+}
+.shadoww{
+    box-shadow: 0 4px 8px 0 rgba(116, 116, 116, 0.2), 0 6px 20px 0 rgba(139, 139, 139, 0.19);
+}
+.wight{
+
+    font-weight: 900;
+}
+ 
+.shadoww:hover{ 
+    transition: all 1s;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+}
+
+.color1{
+    color: #b10000;
+   font-size: 100px;
+}
+
+.color2{
+    font-size: 100px;
+    color: #00318d;
+}
+.color3{
+    font-size: 100px;
+    color: #d4d100;
+}
+.color4{
+    font-size: 100px;
+    color: #0098d4;
+}
+.color5{
+    font-size: 100px;
+    color: #5c00d4;
+}
+.color505{
+
+    color: #5c00d4;
+}
+.color506{
+
+    color: #5f0000;
+}
+.color507{
+
+    color: #0098d4;
+}
+.color508{
+
+    color: #ceca00;
+}
+.color509{
+
+    color: #070070;
+}
+
+.borderbot{
+    border-bottom:3px solid rgba(255, 255, 255, 0.87) ;
+}
