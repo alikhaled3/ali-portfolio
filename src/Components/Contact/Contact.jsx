@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Contact() {
   return  <>
-  <section>
+  <section id='Contact'>
 <div className="container   py-5">
 
   <div className="row   ps-5">
@@ -11,19 +11,18 @@ export default function Contact() {
 
       <div className="col-md-6">
           <form action="">
-  <label for="" class="form-label">name</label>
-  <input type="name" class="form-control" name="" id=""  placeholder=""/>
-  
-  <label for="" class="form-label">Email</label>
-  <input type="email" class="form-control" name="" id=""  placeholder="abc@mail.com"/>
-  <label for="" class="form-label">phone</label>
-  <input type="tel" class="form-control" name="" id=""  />
-  
-  <label for="" class="form-label">message</label>
-  <textarea class="form-control" name="" id="" rows="3"></textarea>
-  
-  <button className='btn btn-dark p-3 px-5 my-4'>Sent</button>
-  
+        <label for="" class="form-label">name</label>
+        <input type="name" class="form-control" name="" id=""  placeholder=""/>
+        
+        <label for="" class="form-label">Email</label>
+        <input type="email" class="form-control" name="" id=""  placeholder="abc@mail.com"/>
+        <label for="" class="form-label">phone</label>
+        <input type="tel" class="form-control" name="" id=""  />
+        
+        <label for="" class="form-label">message</label>
+        <textarea class="form-control" name="" id="" rows="3"></textarea>
+        
+        <button className='btn btn-dark p-3 px-5 my-4'>Sent</button>
   </form>
       </div>
     <div className="col-md-6 d-flex justify-content-center align-items-center mb-5">

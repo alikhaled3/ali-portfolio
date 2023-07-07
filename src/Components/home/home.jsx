@@ -1,9 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
-import Project from '../project/project';
-import Work from './../Work/Work';
-import Contact from './../Contact/Contact';
-import OverView from './../OverView/OverView';
 
 export default function Home() {
 
@@ -19,10 +14,7 @@ export default function Home() {
   </div>
 </header>
 
-<OverView/>
-<Project/>
-<Work/>
-<Contact/>
+
 
   </>
 }

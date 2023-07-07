@@ -5,7 +5,7 @@ import 'react-vertical-timeline-component/style.min.css';
 export default function Project() {
   return  <>
 
- <section className='p-5'>
+ <section id='Project' className='p-5'>
   <h6 className='text-center'>What I have been professional at so far</h6>
   <h2 className='text-center fs-1 wight'> Experiences.</h2>
   <VerticalTimeline className=''>
