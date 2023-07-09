@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ali-portfolio/static/css/main.2fca4834.css",
-    "main.js": "/ali-portfolio/static/js/main.59725fab.js",
+    "main.js": "/ali-portfolio/static/js/main.821bf64a.js",
     "static/media/yummy (2).png": "/ali-portfolio/static/media/yummy (2).d3f367899b19c533efa4.png",
     "static/media/cinmaScope.png": "/ali-portfolio/static/media/cinmaScope.3330082714e42611ca21.png",
     "static/media/freshcart.png": "/ali-portfolio/static/media/freshcart.4d81207e3c4f13b54752.png",
@@ -16,10 +16,10 @@
     "static/media/fa-v4compatibility.woff2": "/ali-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/ali-portfolio/index.html",
     "main.2fca4834.css.map": "/ali-portfolio/static/css/main.2fca4834.css.map",
-    "main.59725fab.js.map": "/ali-portfolio/static/js/main.59725fab.js.map"
+    "main.821bf64a.js.map": "/ali-portfolio/static/js/main.821bf64a.js.map"
   },
   "entrypoints": [
     "static/css/main.2fca4834.css",
-    "static/js/main.59725fab.js"
+    "static/js/main.821bf64a.js"
   ]
 }
