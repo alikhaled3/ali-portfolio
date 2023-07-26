@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/ali-portfolio/static/css/main.2fca4834.css",
-    "main.js": "/ali-portfolio/static/js/main.9ee45e43.js",
+    "main.js": "/ali-portfolio/static/js/main.9880a712.js",
     "static/media/yummy (2).png": "/ali-portfolio/static/media/yummy (2).d3f367899b19c533efa4.png",
     "static/media/cinmaScope.png": "/ali-portfolio/static/media/cinmaScope.3330082714e42611ca21.png",
     "static/media/freshcart.png": "/ali-portfolio/static/media/freshcart.4d81207e3c4f13b54752.png",
+    "static/media/game.png": "/ali-portfolio/static/media/game.b56c3b57f1bff25fac0b.png",
     "static/media/herobg-ecbfddc8.png": "/ali-portfolio/static/media/herobg-ecbfddc8.ad33add2430e34307c33.png",
+    "static/media/wether.png": "/ali-portfolio/static/media/wether.cf6fb17503e6ebeb43d3.png",
     "static/media/fa-solid-900.ttf": "/ali-portfolio/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/ali-portfolio/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/ali-portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
@@ -16,10 +18,10 @@
     "static/media/fa-v4compatibility.woff2": "/ali-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/ali-portfolio/index.html",
     "main.2fca4834.css.map": "/ali-portfolio/static/css/main.2fca4834.css.map",
-    "main.9ee45e43.js.map": "/ali-portfolio/static/js/main.9ee45e43.js.map"
+    "main.9880a712.js.map": "/ali-portfolio/static/js/main.9880a712.js.map"
   },
   "entrypoints": [
     "static/css/main.2fca4834.css",
-    "static/js/main.9ee45e43.js"
+    "static/js/main.9880a712.js"
   ]
 }
