@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alikhaled3.github.io/MyPortfolio",
+  "homepage": "https://alikhaled3.github.io/ali-portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -9,10 +9,12 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.8.9",
     "react-vertical-timeline-component": "^3.6.0",
     "web-vitals": "^2.1.4"
   },

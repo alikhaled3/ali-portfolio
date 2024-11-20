@@ -15,6 +15,9 @@ header{
 
     color: rgba(255, 255, 255, 0.849);
 }
+.nav-item{
+    cursor: pointer;
+}
 .fssss{
 font-size: 13px;
 }
@@ -76,7 +79,16 @@ section{
 
     color: #070070;
 }
-
+.colorMNGO{
+    color: #13aa52;
+}
+.colorNode{
+color:    rgb(65 126 56 );
+}
+.colorNodeIcon{
+color:    rgb(65 126 56 );
+font-size: 100px;
+}
 .borderbot{
     border-bottom:3px solid rgba(255, 255, 255, 0.87) ;
 }

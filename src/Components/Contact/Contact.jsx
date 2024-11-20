@@ -32,9 +32,15 @@ export default function Contact() {
       <h5 className='mt-3 '><i class="fa-solid fa-phone"></i> 01068380630</h5>
       <h3 className='mt-4'>Social Media</h3>  
       <div className="d-flex mt-3 justify-content-around">
+        <a href="https://github.com/alikhaled3">
+
       <h5 className='text-center '><i class="fa-brands fa-github"></i> </h5>
-      <h5 className='text-center '><i class="fa-brands fa-facebook"> </i> </h5>
+        </a>
+      <a href="https://www.linkedin.com/in/ali-khaled-29488a276">
+
       <h5 className='text-center '><a  class="fa-brands fa-linkedin"></a></h5>
+      </a>
+      <h5 className='text-center '><i class="fa-brands fa-facebook"> </i> </h5>
       <h5 className='text-center '><i class="fa-brands fa-instagram"></i></h5>
       </div>
       </ul>

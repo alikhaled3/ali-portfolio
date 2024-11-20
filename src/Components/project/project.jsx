@@ -44,12 +44,12 @@ export default function Project() {
     contentArrowStyle={{ borderRight: '7px solid  rgb(100, 100, 100)' }}
     iconStyle={{ background: 'rgb(0, 0, 0)', color: '#fff' }}
   >
-      <h2 className='fs-2 mb-2 wight'>Web Designer</h2>
+      <h2 className='fs-2 mb-2 wight'>Back-end</h2>
       <ul>
-        <li className='mt-2'>Have a knowledge of UI/UX design principles like layout, typography, color theory, etc.</li>
-        <li className='mt-2'>Understanding responsive design and mobile-first design</li>
-        <li className='mt-2'>I have a knowledge of interaction design, motion design, and microinteractions</li>
-        <li className='mt-2'>Familiarity with CSS frameworks like Bootstrap, Tailwind</li>
+        <li className='mt-2'>Node.js & Express.js: Built robust RESTful APIs with middleware for data validation, error handling, and security best practices.</li>
+        <li className='mt-2'>Authentication & Authorization: Implemented secure user management systems using JWT, OAuth2, and session-based authentication.</li>
+        <li className='mt-2'>Database Management: MongoDB, Mongoose,  MySQL</li>
+
       </ul>
   </VerticalTimelineElement>
  
