@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ali-portfolio/static/css/main.2fca4834.css",
-    "main.js": "/ali-portfolio/static/js/main.9880a712.js",
+    "main.css": "/ali-portfolio/static/css/main.56b5fd6a.css",
+    "main.js": "/ali-portfolio/static/js/main.96ea062d.js",
     "static/media/yummy (2).png": "/ali-portfolio/static/media/yummy (2).d3f367899b19c533efa4.png",
     "static/media/cinmaScope.png": "/ali-portfolio/static/media/cinmaScope.3330082714e42611ca21.png",
     "static/media/freshcart.png": "/ali-portfolio/static/media/freshcart.4d81207e3c4f13b54752.png",
@@ -17,11 +17,11 @@
     "static/media/fa-v4compatibility.ttf": "/ali-portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
     "static/media/fa-v4compatibility.woff2": "/ali-portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/ali-portfolio/index.html",
-    "main.2fca4834.css.map": "/ali-portfolio/static/css/main.2fca4834.css.map",
-    "main.9880a712.js.map": "/ali-portfolio/static/js/main.9880a712.js.map"
+    "main.56b5fd6a.css.map": "/ali-portfolio/static/css/main.56b5fd6a.css.map",
+    "main.96ea062d.js.map": "/ali-portfolio/static/js/main.96ea062d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fca4834.css",
-    "static/js/main.9880a712.js"
+    "static/css/main.56b5fd6a.css",
+    "static/js/main.96ea062d.js"
   ]
 }
